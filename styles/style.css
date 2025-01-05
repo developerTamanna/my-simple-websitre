@@ -1,0 +1,12 @@
+ .card{
+    width: 300px;
+    overflow: hidden;
+    
+   }
+   .card img{
+    width: 100%;
+    height: auto;
+   }
+   .card-content{
+    padding: 15px;
+   }    
